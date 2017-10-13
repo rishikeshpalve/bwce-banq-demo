@@ -1,0 +1,3 @@
+[submodule "account-service-docker"]
+	path = account-service-docker
+	url = https://github.com/bwce-demo/account-service-docker.git
